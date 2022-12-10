@@ -3,6 +3,7 @@
 
 # 2 decimal places
 
+print ("Exam grade calculator\n\n")
 testName = input ("Name of your test\n")
 testMaxGrade = int(input ("What is the max. possible score?\n"))
 testGrade = float(input ("What was your test numeric grade?\n"))

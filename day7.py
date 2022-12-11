@@ -3,7 +3,7 @@
 
 print("This Hyper sofisticated system to detect if in fact you really are Gonzalo")
 
-favMovie = input("Gonzalo, What´s is your favourite movie\n")
+favMovie = input("Gonzalo, What's is your favourite movie\n")
 impostorMessage = "You are no Gonzalo, and you will never be"
 selfMessage = "Welcome Gonzalo AKA Chuyuyuyy"
 
